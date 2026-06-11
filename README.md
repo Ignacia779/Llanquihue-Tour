@@ -1,8 +1,8 @@
 # Llanquihue Tour
 
 👤 Autor del proyecto
-Nombre completo: Ignacia llanos 
-Carrera: Ingeniería en Informática
+Nombre completo: Ignacia Llanos 
+Carrera: Analista Programacion Computacional
 
 
 Proyecto desarrollado en Java para gestionar información de tours turísticos.
