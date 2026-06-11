@@ -1,0 +1,6 @@
+Ruta del Kuchen;Gastronomico;25000
+Paseo Lacuestre;Aventura;15000
+Tour Artesanal;Cultural;11000
+Tour Personalizado;Privado;20000
+Excursion Saltos del Patrohue;Aventura;30000
+Paseo Lago Llanquihue;Aventura;22000
